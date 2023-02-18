@@ -1,7 +1,4 @@
-This is a readme file
+I don't know the conventions for this!
 =====================
 
-I haven't used markdown in a long time.
----------------------------------------
-
-Testing.
+This is a sample website. I am testing stuff.
